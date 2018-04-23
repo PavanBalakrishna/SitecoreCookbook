@@ -1,0 +1,65 @@
+1)RenderModel (Sitecore.Mvc.Presentation) - passed to a View rendering as a model object(Default)
+2)CustomItem (Sitecore.Data.Items) - A superset of Sitecore.Item which takes an 'item' as a constructor input(BreadCrumItem)
+3)View rendering should pass model if 'Model.' is being referenced and the model passed in sitecore should match the model in the View else 
+the following error comes - https://www.screencast.com/t/LqsPei72A
+4)Placeholder settings are only used in experience editors for dynamic rendering
+5)Placeholder settings key MUST match a placeholder on a Rendererlayout page
+
+Data sources
+
+1)By default the datasource is the Context item
+2)Renderings can have explicit data sources
+3)Rendering linked to Data source in 'Rendering' class
+4)Data sources can be used for personalization
+
+Admin pages
+1)http://sitecore91.local/sitecore/admin/stats.aspx = View stats of pages
+
+
+Events
+1)Attach custom handlers to events through patching example - item:saved
+
+Hooks?
+LinkProviders?
+Jobs?
+
+*)Versioned layouts - Different layout versions for different languages .Shared layout will contain common renderings for all language
+.Final layout will contain additional renderings for that language (Delta)
+
+*)Dictionary - Used as global placeholders for common texts ,  can have separate dictionaries for each site
+
+*)Alias- present in the 'Presentation' screen , can add a vanity URL to an existing URL (Entry created in Sitecore/System/Alias/)
+
+*)Clones - Useful in multisite setup ,  create a clone of an item from Site A to Site B (Site B inherits Site A  (changes on A reflect in B )
+as long as Site B item does not change the value after that they are separate)
+
+*)Wildcard items 
+
+Designing Sitecore sites
+See - https://www.youtube.com/watch?v=bbWhBUXO5Pc&t=31s
+*)Create data templates(Templates) and components (Data sources for rendering)
+*)Personalization and testing always requires data templates (Content items that are not pages)
+
+1)Branch Templates
+2)Gutter
+3)Sitecore domain - extranet and sitecore (Security domains)
+4)Security editor used to give permission to content items (Even workflow actions)
+5)Access viewer  - to display stay of access
+6)Sitecore buckstes -Used yo group unorganised content items based on some criteria (Like created date and re organize them
+
+Marketting
+Goals - 
+1)Can be set to pages and click events (On form submits ) 
+2)Goalds can have engamenet values and based on those values we can set personalization
+3)Personalization can be set based on if a goal is triggered
+
+campaigns
+1)Campaign are of two types - Online and offline
+2)Online campaigns are items which create a unique querystring URL that needs to be appended to campaign URL(On sitecore pages and even referring URLs)
+3)Onlien campaigns (Digital like social media pages and emails etc ) need to have campagn querystring appended to them so sitecore identifies the campagin
+4)Offline campaigns are linked to a sitecore page (Preferably with a Alias so its easy to rememeber)
+
+Taxonomies and facets
+1)Taxonomies are used for classification of things like campaigns and goals
+2)Facets are used for furthur classification (More specific)
+
