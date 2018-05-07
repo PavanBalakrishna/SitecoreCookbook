@@ -1,0 +1,77 @@
+----item----
+version: 1
+id: {EFC0E4D5-1FBC-477E-933F-76B7A5FDF573}
+database: master
+path: /sitecore/content/Museum/Data Sources/Attractions/Aztec World
+parent: {8C836615-25A8-47BC-BB69-64AC0B8739AE}
+name: Aztec World
+master: {00000000-0000-0000-0000-000000000000}
+template: {6DA00C95-2B7F-45F8-955B-809B384F11F6}
+templatekey: Attractions
+created: 20180428T052506Z
+
+----version----
+language: en
+version: 1
+revision: 31b4ebff-5fac-4bd3-bd0e-e227435a5070
+
+----field----
+field: {55DEF6E1-08B0-44F8-9701-2E31E35A356A}
+name: Name
+key: name
+content-length: 11
+
+Aztec World
+----field----
+field: {08DCC0B1-54B9-4C0F-8F5D-C6491DC5A7E2}
+name: Description
+key: description
+content-length: 9975
+
+<h3 style="color: #222222; background-color: #ffffff; margin: 0.5em 0px;"><strong>The Aztecs world</strong></h3>
+<p style="color: #222222; background-color: #ffffff; margin: 0.5em 0px;">&nbsp;</p>
+<p style="color: #222222; background-color: #ffffff; margin: 0.5em 0px;">The&nbsp;<strong>Aztecs</strong>&nbsp;(<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="https://en.wikipedia.org/wiki/Help:IPA/English" title="Help:IPA/English" style="color: #0b0080; background: none;">/<span style="border-bottom: 1px dotted;"><span title="/ˈ/: primary stress follows">ˈ</span><span title="/æ/: 'a' in 'bad'">&aelig;</span><span title="'z' in 'zoom'">z</span><span title="'t' in 'tie'">t</span><span title="/ɛ/: 'e' in 'dress'">ɛ</span><span title="'k' in 'kind'">k</span></span>/</a></span></span>) were a&nbsp;<a href="https://en.wikipedia.org/wiki/Mesoamerica" title="Mesoamerica" style="color: #0b0080; background: none;">Mesoamerican</a>&nbsp;culture that flourished in central&nbsp;<a href="https://en.wikipedia.org/wiki/Mexico" title="Mexico" style="color: #0b0080; background: none;">Mexico</a>&nbsp;in the post-classic period from 1300 to 1521. The Aztec peoples included different ethnic groups of central Mexico, particularly those groups who spoke the&nbsp;<a href="https://en.wikipedia.org/wiki/Nahuatl" title="Nahuatl" style="color: #0b0080; background: none;">Nahuatl language</a>&nbsp;and who dominated large parts of&nbsp;<a href="https://en.wikipedia.org/wiki/Mesoamerica" title="Mesoamerica" style="color: #0b0080; background: none;">Mesoamerica</a>&nbsp;from the 14th to the 16th centuries. Aztec culture was organized into city-states (<em><a href="https://en.wikipedia.org/wiki/Altepetl" title="Altepetl" style="color: #0b0080; background: none;">altepetl</a></em>), some of which joined to form alliances, political confederations, or empires. The&nbsp;<a href="https://en.wikipedia.org/wiki/Aztec_empire" class="mw-redirect" title="Aztec empire" style="color: #0b0080; background: none;">Aztec empire</a>&nbsp;was a confederation of three city-states established in 1427,&nbsp;<a href="https://en.wikipedia.org/wiki/Tenochtitlan" title="Tenochtitlan" style="color: #0b0080; background: none;">Tenochtitlan</a>, city-state of the&nbsp;<a href="https://en.wikipedia.org/wiki/Mexica" title="Mexica" style="color: #0b0080; background: none;">Mexica</a>&nbsp;or Tenochca;&nbsp;<a href="https://en.wikipedia.org/wiki/Texcoco_(altepetl)" title="Texcoco (altepetl)" style="color: #0b0080; background: none;">Texcoco</a>; and&nbsp;<a href="https://en.wikipedia.org/wiki/Tlacopan" title="Tlacopan" style="color: #0b0080; background: none;">Tlacopan</a>, previously part of the&nbsp;<a href="https://en.wikipedia.org/wiki/Tepanec" title="Tepanec" style="color: #0b0080; background: none;">Tepanec</a>&nbsp;empire, whose dominant power was&nbsp;<a href="https://en.wikipedia.org/wiki/Azcapotzalco_(altepetl)" title="Azcapotzalco (altepetl)" style="color: #0b0080; background: none;">Azcapotzalco</a>. Although the term Aztecs is often narrowly restricted to the Mexica of Tenochtitlan, it is also broadly used to refer to&nbsp;<a href="https://en.wikipedia.org/wiki/Nahuas" title="Nahuas" style="color: #0b0080; background: none;">Nahua polities or peoples</a>&nbsp;of central Mexico in the prehispanic era,<sup id="cite_ref-1" class="reference"><a href="https://en.wikipedia.org/wiki/Aztec#cite_note-1" style="color: #0b0080; background: none;">[1]</a></sup>&nbsp;as well as the Spanish colonial era (1521-1821).<sup id="cite_ref-2" class="reference"><a href="https://en.wikipedia.org/wiki/Aztec#cite_note-2" style="color: #0b0080; background: none;">[2]</a></sup>&nbsp;The&nbsp;<a href="https://en.wikipedia.org/wiki/Aztec#Definitions" title="Aztec" style="color: #0b0080; background: none;">definition of Aztec and Aztecs</a>&nbsp;have long been the topic of scholarly discussion, ever since German scientist&nbsp;<a href="https://en.wikipedia.org/wiki/Alexander_von_Humboldt" title="Alexander von Humboldt" style="color: #0b0080; background: none;">Alexander von Humboldt</a>&nbsp;established its common usage in the early nineteenth century.<sup id="cite_ref-3" class="reference"><a href="https://en.wikipedia.org/wiki/Aztec#cite_note-3" style="color: #0b0080; background: none;">[3]</a></sup></p>
+<p style="color: #222222; background-color: #ffffff; margin: 0.5em 0px;">Most ethnic groups of central Mexico in the post-classic period shared basic cultural traits of Mesoamerica, and so many of the traits that characterize Aztec culture cannot be said to be exclusive to the Aztecs. For the same reason, the notion of "Aztec civilization" is best understood as a particular horizon of a general Mesoamerican civilization.<sup id="cite_ref-auto_4-0" class="reference"><a href="https://en.wikipedia.org/wiki/Aztec#cite_note-auto-4" style="color: #0b0080; background: none;">[4]</a></sup>&nbsp;The culture of central Mexico includes&nbsp;<a href="https://en.wikipedia.org/wiki/Maize" title="Maize" style="color: #0b0080; background: none;">maize</a>&nbsp;cultivation, the social division between nobility (<em><a href="https://en.wikipedia.org/wiki/Pipiltin" title="Pipiltin" style="color: #0b0080; background: none;">pipiltin</a></em>) and commoners (<em><a href="https://en.wikipedia.org/wiki/Macehualtin" title="Macehualtin" style="color: #0b0080; background: none;">macehualtin</a></em>), a&nbsp;<a href="https://en.wikipedia.org/wiki/Pantheon_(religion)" title="Pantheon (religion)" style="color: #0b0080; background: none;">pantheon</a>&nbsp;(featuring&nbsp;<a href="https://en.wikipedia.org/wiki/Tezcatlipoca" title="Tezcatlipoca" style="color: #0b0080; background: none;">Tezcatlipoca</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Tlaloc" title="Tlaloc" style="color: #0b0080; background: none;">Tlaloc</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Quetzalcoatl" title="Quetzalcoatl" style="color: #0b0080; background: none;">Quetzalcoatl</a>), and the&nbsp;<a href="https://en.wikipedia.org/wiki/Aztec_calendar" title="Aztec calendar" style="color: #0b0080; background: none;">calendric system</a>&nbsp;of a&nbsp;<em><a href="https://en.wikipedia.org/wiki/Xiuhpohualli" title="Xiuhpohualli" style="color: #0b0080; background: none;">xiuhpohualli</a></em>&nbsp;of 365 days intercalated with a&nbsp;<em><a href="https://en.wikipedia.org/wiki/Tonalpohualli" title="Tonalpohualli" style="color: #0b0080; background: none;">tonalpohualli</a></em>&nbsp;of 260 days. Particular to the Mexica of Tenochtitlan was the patron God&nbsp;<a href="https://en.wikipedia.org/wiki/Huitzilopochtli" title="Huitzilopochtli" style="color: #0b0080; background: none;">Huitzilopochtli</a>, twin pyramids, and the ceramic ware known as Aztec I to III.<sup id="cite_ref-auto_4-1" class="reference"><a href="https://en.wikipedia.org/wiki/Aztec#cite_note-auto-4" style="color: #0b0080; background: none;">[4]</a></sup></p>
+<p style="color: #222222; background-color: #ffffff; margin: 0.5em 0px;">From the 13th century, the&nbsp;<a href="https://en.wikipedia.org/wiki/Valley_of_Mexico" title="Valley of Mexico" style="color: #0b0080; background: none;">Valley of Mexico</a>&nbsp;was the heart of dense population and the rise of city-states. The Mexica were late-comers to the Valley of Mexico, and founded the city-state of&nbsp;<a href="https://en.wikipedia.org/wiki/Tenochtitlan" title="Tenochtitlan" style="color: #0b0080; background: none;">Tenochtitlan</a>&nbsp;on unpromising&nbsp;<a href="https://en.wikipedia.org/wiki/Islet" title="Islet" style="color: #0b0080; background: none;">islets</a>&nbsp;in&nbsp;<a href="https://en.wikipedia.org/wiki/Lake_Texcoco" title="Lake Texcoco" style="color: #0b0080; background: none;">Lake Texcoco</a>, later becoming the dominant power of the Aztec Triple Alliance or&nbsp;<a href="https://en.wikipedia.org/wiki/Aztec_Empire" title="Aztec Empire" style="color: #0b0080; background: none;">Aztec Empire</a>. It was a&nbsp;<a href="https://en.wikipedia.org/wiki/Tributary_state" title="Tributary state" style="color: #0b0080; background: none;">tributary empire</a>&nbsp;that expanded its political&nbsp;<a href="https://en.wikipedia.org/wiki/Hegemony" title="Hegemony" style="color: #0b0080; background: none;">hegemony</a>&nbsp;far beyond the Valley of Mexico,&nbsp;<a href="https://en.wikipedia.org/wiki/Aztec_warfare" title="Aztec warfare" style="color: #0b0080; background: none;">conquering other city states</a>&nbsp;throughout Mesoamerica in the late post-classic period. It originated in 1427 as an alliance between the city-states&nbsp;<a href="https://en.wikipedia.org/wiki/Tenochtitlan" title="Tenochtitlan" style="color: #0b0080; background: none;">Tenochtitlan</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Texcoco_(altepetl)" title="Texcoco (altepetl)" style="color: #0b0080; background: none;">Texcoco</a>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Tlacopan" title="Tlacopan" style="color: #0b0080; background: none;">Tlacopan</a>; these allied to defeat the&nbsp;<a href="https://en.wikipedia.org/wiki/Tepanec" title="Tepanec" style="color: #0b0080; background: none;">Tepanec</a>&nbsp;state of&nbsp;<a href="https://en.wikipedia.org/wiki/Azcapotzalco_(altepetl)" title="Azcapotzalco (altepetl)" style="color: #0b0080; background: none;">Azcapotzalco</a>, which had previously dominated the&nbsp;<a href="https://en.wikipedia.org/wiki/Basin_of_Mexico" class="mw-redirect" title="Basin of Mexico" style="color: #0b0080; background: none;">Basin of Mexico</a>. Soon Texcoco and Tlacopan were relegated to junior partnership in the alliance, with Tenochtitlan the dominant power. The empire extended its reach by a combination of trade and military conquest. It was never a true territorial empire controlling a territory by large military garrisons in conquered provinces, but rather dominated its client city-states primarily by installing friendly rulers in conquered, by constructing</p>
+----field----
+field: {1D1D1EB6-229B-401D-B654-4D9498B1B39B}
+name: PageUrl
+key: pageurl
+content-length: 48
+
+/sitecore/content/Museum/Themes/Historic Museums
+----field----
+field: {A8C376E9-85A9-4036-AAA0-8F12423B75C9}
+name: BackGroungImage
+key: backgroungimage
+content-length: 58
+
+<image mediaid="{644169CB-5D7F-40F7-A5DF-3E462F8A5244}" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180428T052506Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+31b4ebff-5fac-4bd3-bd0e-e227435a5070
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180429T104148Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

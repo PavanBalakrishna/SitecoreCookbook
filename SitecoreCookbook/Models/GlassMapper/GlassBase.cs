@@ -8,12 +8,15 @@ using System.Threading.Tasks;
 
 namespace SitecoreCookbook.Models.GlassMapper
 {
-    public interface IGlassBase
+
+    public abstract class GlassBase
     {
+        public abstract Guid Id { get; set; }
+
         [SitecoreInfo(SitecoreInfoType.Name)]
-        string Name { get; set; }
+        public abstract string Name { get; set; }
 
         [SitecoreInfo(SitecoreInfoType.TemplateName)]
-        string Template { get; set; }
+        public abstract string Template { get; set; }
     }
 }

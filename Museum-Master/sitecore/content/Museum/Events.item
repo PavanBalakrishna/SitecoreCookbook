@@ -1,0 +1,537 @@
+----item----
+version: 1
+id: {BE663055-EA3A-4959-8918-68C91A74497A}
+database: master
+path: /sitecore/content/Museum/Events
+parent: {CE778D53-3682-4AAB-A704-92F8081461F2}
+name: Events
+master: {00000000-0000-0000-0000-000000000000}
+template: {4DED6F8E-192A-4FAF-892D-353D74EF957A}
+templatekey: Main
+created: 20180330T055201Z
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 101
+
+<tracking><event id="{268C8F00-D59B-4E0A-99F3-FA0D399A5792}" name="Museum Page Visited" /></tracking>
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 1039
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{6E7F71D7-B60F-43BD-B5D4-73669C1EC889}" p:after="p[@uid='{1605E951-6385-4681-8A82-EB19F20E0577}']" s:ds="{404BA160-C493-4E0C-B049-26330661618E}" s:id="{40CD2062-8973-4614-9522-F5AA3BE10A00}" s:ph="main-content"><rls><ruleset><rule uid="{EED88847-969C-47AB-8C4D-AD5C5BC11ECF}" s:name="Form Submitted"><conditions><condition uid="1235F92C6EC74164AE30219D720BE7EE" s:id="{4D290FF3-1587-4FEE-AB37-88768766A9D9}" s:GoalId="{4A62EFF1-F1F4-4550-91CA-580E1FCD22C0}" /></conditions><actions><action uid="1ED2DCCEAFAD4DC3A04FAC69DFD0FECB" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{AC5D1B5F-778E-4B96-8331-5E2C67CA6F1E}" /></actions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="D6E0A152436349889FE0CEBBCF7CC9D3" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r><r uid="{14492529-579F-4AEE-823D-B50CFE23FF15}" s:ph="promos" /></d></r>
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 199
+
+ar|AuthoringDomain\AuthoringDomainRole|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{D1A5F95E-251D-41C9-A223-21F03C857611}
+----version----
+language: en
+version: 1
+revision: e2e056f1-22b2-40f7-a5b4-d854c9ede42a
+
+----field----
+field: {049C515B-BDC6-4B59-91B9-6C492E7CFE62}
+name: Title
+key: title
+content-length: 6
+
+Events
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180330T055201Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e2e056f1-22b2-40f7-a5b4-d854c9ede42a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180422T134955Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 2
+revision: 9ec2a131-aee8-4210-9e80-02919bce50ee
+
+----field----
+field: {049C515B-BDC6-4B59-91B9-6C492E7CFE62}
+name: Title
+key: title
+content-length: 6
+
+Events
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20180422T135744Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 27
+
+AuthoringDomain\PavanAuthor
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180422T135744Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 27
+
+AuthoringDomain\PavanAuthor
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9ec2a131-aee8-4210-9e80-02919bce50ee
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180422T142710Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A9425C97-D46D-465A-88F0-D8EC405492EF}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: dd4277f9-c93e-4833-8dd8-12400995fd35
+
+----field----
+field: {049C515B-BDC6-4B59-91B9-6C492E7CFE62}
+name: Title
+key: title
+content-length: 6
+
+Events
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20180422T135759Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 27
+
+AuthoringDomain\PavanAuthor
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180422T135759Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 27
+
+AuthoringDomain\PavanAuthor
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dd4277f9-c93e-4833-8dd8-12400995fd35
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180422T142745Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A9425C97-D46D-465A-88F0-D8EC405492EF}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 4
+revision: d3536a13-811e-4eef-837e-45a995ec255e
+
+----field----
+field: {049C515B-BDC6-4B59-91B9-6C492E7CFE62}
+name: Title
+key: title
+content-length: 8
+
+Events 1
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20180422T143046Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 27
+
+AuthoringDomain\PavanAuthor
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180422T143046Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 27
+
+AuthoringDomain\PavanAuthor
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d3536a13-811e-4eef-837e-45a995ec255e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180422T143128Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A9425C97-D46D-465A-88F0-D8EC405492EF}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 5
+revision: 2d5a6637-4829-41d1-8cdb-4c945464445a
+
+----field----
+field: {049C515B-BDC6-4B59-91B9-6C492E7CFE62}
+name: Title
+key: title
+content-length: 8
+
+Events 2
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20180422T143153Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 27
+
+AuthoringDomain\PavanAuthor
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180422T143153Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 27
+
+AuthoringDomain\PavanAuthor
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2d5a6637-4829-41d1-8cdb-4c945464445a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180422T154929Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 22
+
+Museum\ContentApprover
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A9425C97-D46D-465A-88F0-D8EC405492EF}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 6
+revision: 55628815-3883-45a0-8ac2-56d4ec74d2cb
+
+----field----
+field: {049C515B-BDC6-4B59-91B9-6C492E7CFE62}
+name: Title
+key: title
+content-length: 6
+
+Events
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20180422T155305Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 27
+
+AuthoringDomain\PavanAuthor
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180422T155305Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 22
+
+Museum\ContentApprover
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+55628815-3883-45a0-8ac2-56d4ec74d2cb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180422T155608Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 22
+
+Museum\ContentApprover
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A9425C97-D46D-465A-88F0-D8EC405492EF}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 7
+revision: e389a220-8ed5-42d1-8087-1a5fe701e158
+
+----field----
+field: {049C515B-BDC6-4B59-91B9-6C492E7CFE62}
+name: Title
+key: title
+content-length: 6
+
+Events
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20180422T155748Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 27
+
+AuthoringDomain\PavanAuthor
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180422T155748Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 21
+
+Museum\ContentEditor2
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e389a220-8ed5-42d1-8087-1a5fe701e158
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180430T174355Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A9425C97-D46D-465A-88F0-D8EC405492EF}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

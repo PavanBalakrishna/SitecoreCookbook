@@ -1,0 +1,16 @@
+﻿@inherits Glass.Mapper.Sc.Web.Mvc.GlassView<SitecoreCookbook.Models.Museum.Main.ThemesModel>
+
+<h3>@Editable(Model, x => x.Title)</h3>
+
+<div>
+    @Editable(Model, x => x.Description)
+</div>
+
+<div class="list-group">
+    @foreach (var attraction in Model.Attractions)
+    {
+        <a href="@attraction.PageUrl.Url" class="list-group-item ">@attraction.Name</a><span class="badge badge-primary badge-pill">@attraction.IsFree</span>
+    }
+
+
+</div>

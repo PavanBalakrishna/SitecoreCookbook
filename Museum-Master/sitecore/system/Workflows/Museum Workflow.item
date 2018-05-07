@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {D1A5F95E-251D-41C9-A223-21F03C857611}
+database: master
+path: /sitecore/system/Workflows/Museum Workflow
+parent: {05592656-56D7-4D85-AACF-30919EE494F9}
+name: Museum Workflow
+master: {00000000-0000-0000-0000-000000000000}
+template: {1C0ACC50-37BE-4742-B43C-96A07A7410A5}
+templatekey: Workflow
+created: 20180401T075550Z
+
+----field----
+field: {B5166B38-E4BF-4410-953C-2037F2BF6A56}
+name: Initial state
+key: initial state
+content-length: 38
+
+{86130B4E-DEE1-462A-9804-1F66D09BFBC2}
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 419
+
+ar|Museum\Approver|pe|+workflowState:delete|+workflowState:write|+workflowCommand:execute|pd|+workflowState:delete|+workflowState:write|+workflowCommand:execute|ar|Museum\MuseumAuthor|pe|+workflowState:write|+workflowCommand:execute|pd|+workflowState:write|+workflowCommand:execute|ar|AuthoringDomain\AuthoringDomainRole|pe|+workflowState:write|+workflowCommand:execute|pd|+workflowState:write|+workflowCommand:execute|
+----version----
+language: en
+version: 1
+revision: 6bc010bf-17d3-43f6-a034-458a81f500ad
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180401T075550Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6bc010bf-17d3-43f6-a034-458a81f500ad
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180422T153946Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

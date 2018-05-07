@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {BBC8B204-0D8B-4BB6-91EB-C83B02248401}
+database: master
+path: /sitecore/content/Museum/Themes
+parent: {CE778D53-3682-4AAB-A704-92F8081461F2}
+name: Themes
+master: {00000000-0000-0000-0000-000000000000}
+template: {4DED6F8E-192A-4FAF-892D-353D74EF957A}
+templatekey: Main
+created: 20180427T173721Z
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 101
+
+<tracking><event id="{268C8F00-D59B-4E0A-99F3-FA0D399A5792}" name="Museum Page Visited" /></tracking>
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{4DED6F8E-192A-4FAF-892D-353D74EF957A}
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 1643
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{2D6F32DA-20CF-4A4F-AE24-6FDE6C778C4B}" p:after="p[@uid='{1605E951-6385-4681-8A82-EB19F20E0577}']" s:ds="{A908A057-1095-41F4-9097-9604E8320BA2}" s:id="{C38D691D-8BA1-4C43-A303-633460772971}" s:ph="main-content"><rls><ruleset><rule uid="{7C354059-DF07-408C-A9BA-E2399296E748}" s:name="Action Pattern"><conditions><condition uid="FBA0DB3DA0B443DD990AB5C34A18119F" s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}" s:ProfileName="Museum Genre" s:PatternName="Action Pattern" /></conditions><actions><action uid="CCF5ECA8AF944367B668DB0C414AB2EF" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{0A7A65C7-3A97-4448-AED7-8A762A91B550}" /></actions></rule><rule uid="{6BB5A483-BFB1-48BB-94F7-97A8F0418CDD}" s:name="Romantic Pattern"><conditions><condition uid="4B69F8898D4642009D88DA911CD054F0" s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}" s:ProfileName="Museum Genre" s:PatternName="Romantic Pattern" /></conditions><actions><action uid="573B367E19D84859B867618800AC3E7F" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{C52C312B-D229-4643-96D9-AE81D039D2D6}" /></actions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="D78D66ECA5854FA68ED3E4FAAC70F48C" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions><action uid="462A938284EB4C5FA62FF3F90E0461BF" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{A908A057-1095-41F4-9097-9604E8320BA2}" /></actions></rule></ruleset></rls></r><r uid="{14492529-579F-4AEE-823D-B50CFE23FF15}" s:ph="promos" /></d></r>
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{D1A5F95E-251D-41C9-A223-21F03C857611}
+----version----
+language: en
+version: 1
+revision: c44e4af2-46c8-40c7-90be-b4ca1154f71c
+
+----field----
+field: {049C515B-BDC6-4B59-91B9-6C492E7CFE62}
+name: Title
+key: title
+content-length: 6
+
+Themes
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180427T173721Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c44e4af2-46c8-40c7-90be-b4ca1154f71c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180430T174353Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A9425C97-D46D-465A-88F0-D8EC405492EF}

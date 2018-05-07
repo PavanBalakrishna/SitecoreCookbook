@@ -1,0 +1,157 @@
+----item----
+version: 1
+id: {97001FB9-EF66-4C32-8580-9F09ECA6CA31}
+database: master
+path: /sitecore/media library/Museum/Promos/Banner3
+parent: {3313F148-DBC0-46EE-BF10-0EC56702F028}
+name: Banner3
+master: {00000000-0000-0000-0000-000000000000}
+template: {DAF085E8-602E-43A6-8299-038FF171349F}
+templatekey: Jpeg
+created: 20180429T070240Z
+
+----field----
+field: {2134867A-AC67-4DAC-836C-A9264FD9D6D6}
+name: File Path
+key: file path
+content-length: 80
+
+/App_Data/MediaFiles/9/7/0/{97001FB9-EF66-4C32-8580-9F09ECA6CA31}Banner3_001.jpg
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 4
+
+7610
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 4
+
+1087
+----field----
+field: {90A6FE48-F3E0-42F3-A18A-EDAA7DB9CA57}
+name: DateTime
+key: datetime
+content-length: 19
+
+2014:02:27 09:35:21
+----field----
+field: {7798CD59-76DC-4869-8BDA-2952A64B8687}
+name: Make
+key: make
+content-length: 5
+
+Apple
+----field----
+field: {1A25C485-C7F4-4488-AD5A-B8D72E4A66DF}
+name: Model
+key: model
+content-length: 8
+
+iPhone 5
+----field----
+field: {B0145335-8735-414B-9169-A1D4E4DC9641}
+name: Software
+key: software
+content-length: 11
+
+GIMP 2.8.10
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+jpg
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 10
+
+image/jpeg
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 7
+
+3001303
+----field----
+field: {5D589EC4-4842-4630-A860-540357A196F3}
+name: Latitude
+key: latitude
+content-length: 8
+
+34.80585
+----field----
+field: {11CB6358-8F71-4F80-AB30-04D745D99D56}
+name: Longitude
+key: longitude
+content-length: 17
+
+-111.769591666667
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 11
+
+7610 x 1087
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/97001FB9EF664C3285809F09ECA6CA31.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: 95695bcb-ebcf-4e3c-bc30-b10a6948115c
+
+----field----
+field: {65885C44-8FCD-4A7F-94F1-EE63703FE193}
+name: Alt
+key: alt
+content-length: 7
+
+Outback
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180429T070657Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+95695bcb-ebcf-4e3c-bc30-b10a6948115c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180429T071218Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

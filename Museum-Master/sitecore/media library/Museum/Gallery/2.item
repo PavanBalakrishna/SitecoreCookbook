@@ -1,0 +1,122 @@
+----item----
+version: 1
+id: {AE050F54-0F47-47D6-8A49-1B1824C9C22A}
+database: master
+path: /sitecore/media library/Museum/Gallery/2
+parent: {5DADEE00-7224-47B7-A5A2-5A48106238EE}
+name: 2
+master: {00000000-0000-0000-0000-000000000000}
+template: {EB3FB96C-D56B-4AC9-97F8-F07B24BB9BF7}
+templatekey: Jpeg
+created: 20180329T155626Z
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/AE050F540F4747D68A491B1824C9C22A.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: 391588ed-b90a-4211-ad56-e4a34b8abe29
+
+----field----
+field: {A50B93FD-C413-4065-AEC7-5EA8CE107200}
+name: File Path
+key: file path
+content-length: 70
+
+/App_Data/MediaFiles/A/E/0/{AE050F54-0F47-47D6-8A49-1B1824C9C22A}2.jpg
+----field----
+field: {8CF45D0E-ADD4-4772-911A-AC6FC50F9C7D}
+name: Alt
+key: alt
+content-length: 6
+
+Repaer
+----field----
+field: {D8E619C3-2D16-47F4-AD3B-C68103DF86C2}
+name: Width
+key: width
+content-length: 4
+
+1440
+----field----
+field: {611BA5DD-8D26-4C9B-A95D-900AC94CB32A}
+name: Height
+key: height
+content-length: 3
+
+900
+----field----
+field: {861A4C20-B8F6-410B-9E40-E2A3A03B7663}
+name: Software
+key: software
+content-length: 6
+
+Google
+----field----
+field: {E625E7DA-F988-4442-A598-D21040EC9815}
+name: Title
+key: title
+content-length: 6
+
+Reaper
+----field----
+field: {3EB149F8-DE14-4220-A8F4-9E723CFAE5D9}
+name: Extension
+key: extension
+content-length: 3
+
+jpg
+----field----
+field: {ABA5CE58-6D8F-43A4-B4FA-B181651347DD}
+name: Mime Type
+key: mime type
+content-length: 10
+
+image/jpeg
+----field----
+field: {5BE6C122-84C9-4661-A0C9-3718909C8DAD}
+name: Size
+key: size
+content-length: 7
+
+1085341
+----field----
+field: {6405CC9E-9CA1-44A1-ADF8-0DECF05071CE}
+name: Dimensions
+key: dimensions
+content-length: 10
+
+1440 x 900
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180329T155626Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+391588ed-b90a-4211-ad56-e4a34b8abe29
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180330T033109Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

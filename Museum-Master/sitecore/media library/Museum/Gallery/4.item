@@ -1,0 +1,115 @@
+----item----
+version: 1
+id: {F8A50F10-95AF-4E67-8323-81E67189F1DA}
+database: master
+path: /sitecore/media library/Museum/Gallery/4
+parent: {5DADEE00-7224-47B7-A5A2-5A48106238EE}
+name: 4
+master: {00000000-0000-0000-0000-000000000000}
+template: {EB3FB96C-D56B-4AC9-97F8-F07B24BB9BF7}
+templatekey: Jpeg
+created: 20180329T155627Z
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/F8A50F1095AF4E67832381E67189F1DA.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: 048abdc6-1837-4a47-8daf-4e7aec194982
+
+----field----
+field: {A50B93FD-C413-4065-AEC7-5EA8CE107200}
+name: File Path
+key: file path
+content-length: 70
+
+/App_Data/MediaFiles/F/8/A/{F8A50F10-95AF-4E67-8323-81E67189F1DA}4.jpg
+----field----
+field: {8CF45D0E-ADD4-4772-911A-AC6FC50F9C7D}
+name: Alt
+key: alt
+content-length: 13
+
+Haunted house
+----field----
+field: {D8E619C3-2D16-47F4-AD3B-C68103DF86C2}
+name: Width
+key: width
+content-length: 4
+
+1920
+----field----
+field: {611BA5DD-8D26-4C9B-A95D-900AC94CB32A}
+name: Height
+key: height
+content-length: 4
+
+1200
+----field----
+field: {E625E7DA-F988-4442-A598-D21040EC9815}
+name: Title
+key: title
+content-length: 13
+
+Haunted house
+----field----
+field: {3EB149F8-DE14-4220-A8F4-9E723CFAE5D9}
+name: Extension
+key: extension
+content-length: 3
+
+jpg
+----field----
+field: {ABA5CE58-6D8F-43A4-B4FA-B181651347DD}
+name: Mime Type
+key: mime type
+content-length: 10
+
+image/jpeg
+----field----
+field: {5BE6C122-84C9-4661-A0C9-3718909C8DAD}
+name: Size
+key: size
+content-length: 6
+
+186075
+----field----
+field: {6405CC9E-9CA1-44A1-ADF8-0DECF05071CE}
+name: Dimensions
+key: dimensions
+content-length: 11
+
+1920 x 1200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180329T155627Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+048abdc6-1837-4a47-8daf-4e7aec194982
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180330T033353Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

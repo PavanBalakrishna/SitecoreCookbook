@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {9FA9603B-5539-45B4-A910-9DD23F830BEB}
+database: master
+path: /sitecore/system/Workflows/Museum Workflow/Approval/Approved
+parent: {F0D524E4-45BD-4C58-B984-F6042554B4B0}
+name: Approved
+master: {00000000-0000-0000-0000-000000000000}
+template: {CB01F9FC-C187-46B3-AB0B-97A8468D8303}
+templatekey: Command
+created: 20180401T081838Z
+
+----field----
+field: {DCBEBC58-6124-4100-A248-FC717D6C78D5}
+name: Next state
+key: next state
+content-length: 38
+
+{A9425C97-D46D-465A-88F0-D8EC405492EF}
+----field----
+field: {82A7C02F-9A55-4BFE-B494-D1713D4BE9FF}
+name: Suppress Comment
+key: suppress comment
+content-length: 1
+
+1
+----version----
+language: en
+version: 1
+revision: 1d05ddd9-544d-4d9d-baa9-25ca8409de29
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180401T081838Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1d05ddd9-544d-4d9d-baa9-25ca8409de29
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180401T081853Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

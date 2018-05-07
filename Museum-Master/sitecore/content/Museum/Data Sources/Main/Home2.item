@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {65D65230-0844-4A72-9309-F8A279FD2FE7}
+database: master
+path: /sitecore/content/Museum/Data Sources/Main/Home2
+parent: {1627F1AB-2A34-4952-A472-1B5DBD42E4E2}
+name: Home2
+master: {00000000-0000-0000-0000-000000000000}
+template: {755B2F65-193A-4A93-A9E4-17EB86EA942A}
+templatekey: Main
+created: 20180404T161327Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: b25ddcfb-7e34-48fe-9f09-8a1a3755a1ca
+
+----field----
+field: {B9C71FEA-5970-42BA-962C-E8E3F84CCFA0}
+name: Introduction
+key: introduction
+content-length: 215
+
+<h1 style="margin-top: 1em; margin-bottom: 1em; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #9e0102; padding: 0px;">Horror Films: Why We Like To Watch now that you have seen our photos ?</h1>
+----field----
+field: {D5B7E2AF-66D0-4279-A006-4B50ABDEFE29}
+name: Body
+key: body
+content-length: 3634
+
+<h1 style="color: #9e0102; margin: 1em 0px; padding: 0px;"><strong style="color: rgb(0, 0, 0); font-size: 14px; margin: 0px; padding: 0px;">"If movies are the dreams of the mass culture... horror movies are the nightmares"</strong><br /></h1><p style="color: #000000; margin: 1em 0px; padding: 0px; text-align: center;"><strong style="margin: 0px; padding: 0px;">
+— Stephen King,&nbsp;<em style="margin: 0px; padding: 0px;">Danse Macabre</em></strong></p>
+<p style="color: #000000; margin: 1em 0px; padding: 0px;">Horror is an ancient art form. We've terrified each other with tales that trigger the less logical parts of our imaginations for as long as we've told stories. From the ballads of the ancient world to modern urban myths, audiences willingly offer themselves up to sadistic storytellers to be scared witless, and they are happy to pay for the privilege. Theories abound as to why this is so; do we get basic thrills from triggering the rush of adrenalin which fear brings, or do horror stories serve a wider moral purpose, reinforcing the rules and taboos of our society and demonstrating the macabre fate of those who transgress against them?</p>
+<p style="color: #000000; margin: 1em 0px; padding: 0px;">Horror movies have long served both purposes. They deliver thrills by the hearseload, as well as exploring the dark, forbidden side of life (and death) — cautionary tales for grown ups. They also provide a compelling mirror image of the anxieties of their time&nbsp;<em style="margin: 0px; padding: 0px;">Nosferatu</em>&nbsp;(1922) isn't just a tale of vampirism, but offers heart-rending images of a town beleaguered by premature and random deaths, echoes of the Great War and the Great Flu Epidemic fatalities. At the other end of the century&nbsp;<em style="margin: 0px; padding: 0px;">Blade</em>&nbsp;(1998) isn't just about vampires either, but reflects a fear of the powerful yet irresponsible elements in society, a lawless elite, echoes down the corridor of the growing invincibility of those at the top.</p>
+<p style="color: #000000; margin: 1em 0px; padding: 0px;">Horror movies of the early 21st century cogitate on global concerns of contagion (<em style="margin: 0px; padding: 0px;">28 Days Later</em>), or sound reactionary warning notes about the dangers of leaving moral absolutism behind (<em style="margin: 0px; padding: 0px;">The Last Exorcism, The Conjuring</em>), or poke at the major racial fault lines running through our society (<em style="margin: 0px; padding: 0px;">Get Out</em>). Horror movies provide a unique space for free discourse about the moral, political and societal shifts in our communal paradigms.</p>
+<p style="color: #000000; margin: 1em 0px; padding: 0px;">Each generation gets the horror films it deserves, and one of the more fascinating aspects of the study of the genre is the changing nature of the monsters who present a threat. In the early 1940s, a world living under the shadow of Hitler's predatory tendencies identified a part-man, part-wolf as their boogeyman, whose bestial nature caused him to tear apart those who crossed his path.</p>
+<p style="color: #000000; margin: 1em 0px; padding: 0px;">In the 1990s however, there was no need for a part wolf component: Jonathan Doe (<em style="margin: 0px; padding: 0px;">Se7en</em>&nbsp;1994) and Hannibal Lecter (<em style="margin: 0px; padding: 0px;">Manhunter</em>&nbsp;1986,&nbsp;<em style="margin: 0px; padding: 0px;">Silence of the Lambs</em>1991,&nbsp;<em style="margin: 0px; padding: 0px;">Hannibal</em>&nbsp;2001) were entirely human in their calculated and stylised killing methods.</p>
+<div>&nbsp;</div>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180330T052807Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b25ddcfb-7e34-48fe-9f09-8a1a3755a1ca
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180404T161351Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

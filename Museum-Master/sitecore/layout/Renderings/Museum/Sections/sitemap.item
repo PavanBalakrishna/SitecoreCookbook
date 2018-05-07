@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {7F98B71A-7E90-4CB0-BF1C-E8BB69DC2108}
+database: master
+path: /sitecore/layout/Renderings/Museum/Sections/sitemap
+parent: {47ECBB38-DE58-4703-BF31-9017DB444F01}
+name: sitemap
+master: {00000000-0000-0000-0000-000000000000}
+template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
+templatekey: View rendering
+created: 20180326T175336Z
+
+----field----
+field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
+name: Path
+key: path
+content-length: 37
+
+/Views/Museum/Sections/SiteMap.cshtml
+----field----
+field: {DDAB263E-B42E-419A-AA6F-081B7393CA38}
+name: Model
+key: model
+content-length: 42
+
+/sitecore/layout/Models/Museum/SitemapList
+----version----
+language: en
+version: 1
+revision: 6827052a-fef6-45fa-b407-badf210f2dd8
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180326T175336Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6827052a-fef6-45fa-b407-badf210f2dd8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180328T175443Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,16 @@
+﻿@model SitecoreCookbook.Models.Museum.Sections.DatModels.Attraction
+
+<div class="themesAndAttrctionContainer container">
+    @Model.Description
+</div>
+<div>
+    <span><b>$ @Model.Cost</b></span>
+</div>
+
+<style>
+
+    .themesAndAttrctionContainer{
+        background-image:url(@Model.BackGroungImage.Src)
+        
+    }
+</style>

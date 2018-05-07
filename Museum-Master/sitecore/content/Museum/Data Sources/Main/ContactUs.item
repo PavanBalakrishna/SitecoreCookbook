@@ -1,0 +1,82 @@
+----item----
+version: 1
+id: {93189FC6-9537-40FD-AF58-7078CA4177DD}
+database: master
+path: /sitecore/content/Museum/Data Sources/Main/ContactUs
+parent: {1627F1AB-2A34-4952-A472-1B5DBD42E4E2}
+name: ContactUs
+master: {00000000-0000-0000-0000-000000000000}
+template: {755B2F65-193A-4A93-A9E4-17EB86EA942A}
+templatekey: Main
+created: 20180330T053714Z
+
+----version----
+language: en
+version: 1
+revision: 8e4af184-0361-4180-bdbf-03071e437bd8
+
+----field----
+field: {B9C71FEA-5970-42BA-962C-E8E3F84CCFA0}
+name: Introduction
+key: introduction
+content-length: 188
+
+<h1 style="margin-top: 1em; margin-bottom: 1em; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(158, 1, 2); padding: 0px;">Get in touch with us&nbsp;</h1>
+----field----
+field: {D5B7E2AF-66D0-4279-A006-4B50ABDEFE29}
+name: Body
+key: body
+content-length: 747
+
+<table class="table table-dark" style="width: 494.8px; height: 102.4px;">
+    <tbody>
+        <tr>
+            <td><img height="60" alt="Facebook Logo" width="60" src="-/media/062028A401C34546B735C5766144516E.ashx?h=60&amp;w=60" /><br />
+            </td>
+            <td>www.facebook.com/hoh</td>
+        </tr>
+        <tr>
+            <td><img height="60" alt="Instagram Logo" width="60" src="-/media/182DA8E9CEE849B8A593C18E54DA98B7.ashx?h=60&amp;w=60" /></td>
+            <td>www.instagram.com/hoh</td>
+        </tr>
+        <tr>
+            <td><img height="60" alt="Twitter Logo" width="60" src="-/media/729FED1FB52940EB99CCE81B52ED5260.ashx?h=60&amp;w=60" /></td>
+            <td>www.twitter.com/hoh</td>
+        </tr>
+    </tbody>
+</table>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180330T053714Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8e4af184-0361-4180-bdbf-03071e437bd8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180331T072017Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

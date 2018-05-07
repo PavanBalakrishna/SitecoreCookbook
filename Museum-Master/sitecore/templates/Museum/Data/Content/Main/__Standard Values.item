@@ -1,0 +1,85 @@
+----item----
+version: 1
+id: {92D73AF7-1C30-4A75-B1E4-06F19E331DB3}
+database: master
+path: /sitecore/templates/Museum/Data/Content/Main/__Standard Values
+parent: {755B2F65-193A-4A93-A9E4-17EB86EA942A}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {755B2F65-193A-4A93-A9E4-17EB86EA942A}
+templatekey: Main
+created: 20180330T052201Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}
+----version----
+language: en
+version: 1
+revision: 801e192e-096c-42fe-a945-dd7d03efbd63
+
+----field----
+field: {B9C71FEA-5970-42BA-962C-E8E3F84CCFA0}
+name: Introduction
+key: introduction
+content-length: 25
+
+<h3>Welcome to $name</h3>
+----field----
+field: {D5B7E2AF-66D0-4279-A006-4B50ABDEFE29}
+name: Body
+key: body
+content-length: 772
+
+<p>This is the world of horrows</p>
+<p>&nbsp;</p>
+<p>You will experience things that you have never seen before</p>
+<p>&nbsp;</p>
+<p>The mysterious origin of Halloween traditions can be traced back to the ancient pagans festivals celebrated by Celts. The Celtic people marked the day as the end of the harvest season and the beginning of the winter. They believed the transition between the seasons is opening a gate to the world of the dead.</p>
+<p>Eastern and Western Civilizations have scripted legends where human-made created entities, artificial beings capable of thinking, feeling, helping or harming others. These creatures would, in many stories, escape the controls of their creators, and gained knowledge and abilities beyond what anyone would have thought.</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180330T052201Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+801e192e-096c-42fe-a945-dd7d03efbd63
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180330T052743Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

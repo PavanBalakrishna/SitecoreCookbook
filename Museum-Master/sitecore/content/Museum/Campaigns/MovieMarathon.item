@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {860FF62F-5F6D-4BDD-B984-9C2DEFDC3A98}
+database: master
+path: /sitecore/content/Museum/Campaigns/MovieMarathon
+parent: {968B5AE9-BD32-45CB-9C55-15B3C2514938}
+name: MovieMarathon
+master: {00000000-0000-0000-0000-000000000000}
+template: {7EEBD9F8-0724-4AB8-B42B-DB067E1AFD90}
+templatekey: CampaignPromos
+created: 20180407T111204Z
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 145
+
+<r xmlns:xsd="http://www.w3.org/2001/XMLSchema" ><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{B5C84496-7CA5-4B67-8DB3-0BE5439AF15B}" /></r>
+----version----
+language: en
+version: 1
+revision: 93b7ae39-0812-4ea1-be19-bfe5a910c231
+
+----field----
+field: {5DB8495D-EAD3-4EE4-8B98-AC0A583AAB6F}
+name: PromosList
+key: promoslist
+content-length: 155
+
+{9589DD8C-58A9-4377-AB1F-865CF918B4A6}|{8D7C2FD9-58D4-4A09-A070-C6B97E478BAA}|{74F4FE13-077A-4C8D-819C-98F88D17CC04}|{5460AB9D-5A34-44FD-B5B1-552658232E80}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180407T111204Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+93b7ae39-0812-4ea1-be19-bfe5a910c231
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180422T135927Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 27
+
+AuthoringDomain\PavanAuthor
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 65
+
+<r owner="AuthoringDomain\PavanAuthor" date="20180422T135927Z" />

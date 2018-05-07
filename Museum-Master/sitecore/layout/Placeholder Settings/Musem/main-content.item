@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {BE5C57C4-F443-4616-89FA-82A7D44F14E3}
+database: master
+path: /sitecore/layout/Placeholder Settings/Musem/main-content
+parent: {0F95B352-1B13-4535-9326-5A3B7DEC61A4}
+name: main-content
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+created: 20180321T161417Z
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 12
+
+main-content
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 233
+
+{52D9F779-6039-460D-9076-5E7BFBFD4A6A}|{1AB2B3E7-532E-46D6-93C4-E4100D8D049B}|{40CD2062-8973-4614-9522-F5AA3BE10A00}|{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}|{C38D691D-8BA1-4C43-A303-633460772971}|{03906C03-B4D6-4056-8045-B125987EF5FB}
+----version----
+language: en
+version: 1
+revision: ba79b9e6-fa6d-4284-b57f-eccb7b7d1f72
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180321T161417Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ba79b9e6-fa6d-4284-b57f-eccb7b7d1f72
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180429T105038Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {5460AB9D-5A34-44FD-B5B1-552658232E80}
+database: master
+path: /sitecore/content/Museum/Campaigns/MovieMarathon/Veronica
+parent: {860FF62F-5F6D-4BDD-B984-9C2DEFDC3A98}
+name: Veronica
+master: {00000000-0000-0000-0000-000000000000}
+template: {5A5CEB17-DAAF-4E32-A28E-9C552F218656}
+templatekey: CampaignPromosSection
+created: 20180407T111333Z
+
+----field----
+field: {BD1F541E-EDF8-409F-B833-30576BC0400B}
+name: Image
+key: image
+content-length: 111
+
+<image mediaid="{DAC67E6E-9992-442F-9EC7-BC26941673BA}" alt="" height="300" width="1500" hspace="" vspace="" />
+----version----
+language: en
+version: 1
+revision: 22c54b80-5201-445d-b859-b28cc8ab5bd6
+
+----field----
+field: {6CE42C7A-5C1A-4FE9-A21B-AEE4AE246678}
+name: Title
+key: title
+content-length: 29
+
+Veronica - The girl who lived
+----field----
+field: {304BF383-4D2E-4C4E-B7F2-316CCFBE0A90}
+name: Description
+key: description
+content-length: 125
+
+<strong>A tale of three girls who try a oji board to communicate with their dead father. Things go from bad to worse</strong>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180407T111333Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+22c54b80-5201-445d-b859-b28cc8ab5bd6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180407T112818Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

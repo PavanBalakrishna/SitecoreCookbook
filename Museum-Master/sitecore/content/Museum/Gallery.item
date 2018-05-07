@@ -1,0 +1,108 @@
+----item----
+version: 1
+id: {3DADA5C9-CF03-467E-9984-7EE34FC2DDF7}
+database: master
+path: /sitecore/content/Museum/Gallery
+parent: {CE778D53-3682-4AAB-A704-92F8081461F2}
+name: Gallery
+master: {00000000-0000-0000-0000-000000000000}
+template: {4DED6F8E-192A-4FAF-892D-353D74EF957A}
+templatekey: Main
+created: 20180328T181159Z
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 101
+
+<tracking><event id="{268C8F00-D59B-4E0A-99F3-FA0D399A5792}" name="Museum Page Visited" /></tracking>
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 582
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{5C18605E-2455-4B1D-A2E9-492A0A8866A2}" p:after="p[@uid='{1605E951-6385-4681-8A82-EB19F20E0577}']" s:ds="{E3AEE76D-3088-4C11-B375-E18C9D0761EE}" s:id="{52D9F779-6039-460D-9076-5E7BFBFD4A6A}" s:ph="main-content" /><r uid="{CB026F67-5195-46DA-B1B6-209820931EA2}" p:after="r[@uid='{5C18605E-2455-4B1D-A2E9-492A0A8866A2}']" s:ds="{E3AEE76D-3088-4C11-B375-E18C9D0761EE}" s:id="{52D9F779-6039-460D-9076-5E7BFBFD4A6A}" s:par="" s:ph="main-content-{00000000-0000-0000-0000-000000000000}-1" /></d></r>
+----field----
+field: {9135200A-5626-4DD8-AB9D-D665B8C11748}
+name: __Never publish
+key: __never publish
+content-length: 0
+
+
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 199
+
+ar|AuthoringDomain\AuthoringDomainRole|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{D1A5F95E-251D-41C9-A223-21F03C857611}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{D1A5F95E-251D-41C9-A223-21F03C857611}
+----version----
+language: en
+version: 1
+revision: 3d9e3bd9-18ac-43aa-8e41-e5965bf61b59
+
+----field----
+field: {049C515B-BDC6-4B59-91B9-6C492E7CFE62}
+name: Title
+key: title
+content-length: 13
+
+Gallery title
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180328T181159Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3d9e3bd9-18ac-43aa-8e41-e5965bf61b59
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180430T174353Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A9425C97-D46D-465A-88F0-D8EC405492EF}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

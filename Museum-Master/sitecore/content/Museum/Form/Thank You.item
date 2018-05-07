@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {AC3F3DA1-3E6C-45A0-B18E-ACE25062D787}
+database: master
+path: /sitecore/content/Museum/Form/Thank You
+parent: {D76F2444-37C8-4618-9B89-F09B469F1657}
+name: Thank You
+master: {00000000-0000-0000-0000-000000000000}
+template: {4DED6F8E-192A-4FAF-892D-353D74EF957A}
+templatekey: Main
+created: 20180407T185856Z
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 101
+
+<tracking><event id="{268C8F00-D59B-4E0A-99F3-FA0D399A5792}" name="Museum Page Visited" /></tracking>
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 384
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{FBA05C6E-18F3-4230-8815-0F727D0793D7}" p:after="p[@uid='{1605E951-6385-4681-8A82-EB19F20E0577}']" s:ds="{AC5D1B5F-778E-4B96-8331-5E2C67CA6F1E}" s:id="{40CD2062-8973-4614-9522-F5AA3BE10A00}" s:par="" s:ph="main-content" /><r uid="{14492529-579F-4AEE-823D-B50CFE23FF15}" s:ph="promos" /></d></r>
+----version----
+language: en
+version: 1
+revision: b0c63645-1cc5-47af-aa79-47645bbfaefe
+
+----field----
+field: {049C515B-BDC6-4B59-91B9-6C492E7CFE62}
+name: Title
+key: title
+content-length: 9
+
+Thank You
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180407T185856Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b0c63645-1cc5-47af-aa79-47645bbfaefe
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180430T174356Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
